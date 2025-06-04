@@ -1,2 +1,2 @@
-# Contact-List-Management-System-in-C-
+# Contact-List-Management-System-in-C++
 Made by Rishabh Naharwal
